@@ -163,3 +163,4 @@ cython_debug/
 
 # Wuuzzaa added ignores
 .idea/
+data/
